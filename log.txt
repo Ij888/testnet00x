@@ -1,0 +1,2 @@
+22MAR2021
+Evaluate testnets from Polkadot(DOT), Tezos(XTZ), NEO, EOS, TRON, ALGORAND(ALGO), Cosmos(ATOM), MakerDAO(DAI & MKR).
